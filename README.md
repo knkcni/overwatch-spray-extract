@@ -1,6 +1,6 @@
 # overwatch-spray-extract
 
- An easy way to get every sprays from overwatch using docker.
+ An easy way to get every sprays HQ in .png from overwatch using docker.
 
 
 For help on getting started with docker see the [official getting started guide](https://docs.docker.com/get-started/).
