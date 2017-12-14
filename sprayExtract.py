@@ -23,7 +23,7 @@ def createDir(name):
 
 
 def downloadPicture(dir, pictName, pictUrl):
-    loc = dir+'/'+pictName
+    loc = extractDirectory+dir+'/'+pictName
     if pictUrl is not " ":
         o = requests.get(pictUrl)
         i = Image.open(BytesIO(o.content))
