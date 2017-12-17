@@ -9,7 +9,7 @@ For more information on Overwatch, check out it's [website](https://playoverwatc
 
 
 
-## QUICKSTART
+### QUICKSTART
 
 Running this will run your docker image and you will get your sprays locally in matter of minutes
 
