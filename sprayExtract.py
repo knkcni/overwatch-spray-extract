@@ -10,7 +10,7 @@ from PIL import Image
 from bs4 import BeautifulSoup
 
 
-OWCharacters = ['Ana', 'Bastion', 'D.Va', 'Genji', 'Hanzo', 'Junkrat', 'Lúcio', 'McCree', 'Mei', 'Mercy', 'Orisa', 'Pharah', 'Reaper',
+OWCharacters = ['Ana', 'Ashe', 'Bastion', 'D.Va', 'Genji', 'Hanzo', 'Junkrat', 'Lúcio', 'McCree', 'Mei', 'Mercy', 'Orisa', 'Pharah', 'Reaper',
                 'Reinhardt', 'Roadhog', 'Soldier 76', 'Sombra', 'Symmetra', 'Torbjörn', 'Tracer', 'Widowmaker', 'Winston',
                 'Zarya', 'Zenyatta', 'General']
 
